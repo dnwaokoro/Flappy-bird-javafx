@@ -12,7 +12,7 @@ A Flappy Bird clone built in java using Java-FX with real time physics and colli
 - JavaFX
 
 ## Requirements
-- JDK [your version here]
+- JDK 17
 - JavaFX compatible with the installed JDK
 
 ## How to Run
